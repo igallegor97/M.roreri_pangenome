@@ -1,1 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository it as below."
+authors:
+- family-names: "Gallego"
+  given-names: "Isabella"
 
+title: "M.roreri pangenome aconstruction and analysis"
+version: 1
+date-released: 2023-10-329
+url: "https://github.com/igallegor97/M.roreri_pangenome"
